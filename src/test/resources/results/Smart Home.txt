@@ -1,0 +1,68 @@
+Element name: MAIN MENU
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/
+
+Element name: Amazon Smart Home
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=6563140011&ref_=nav_em_amazon_smart_home_0_2_7_2
+
+Element name: Smart Home Lighting
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217035011&ref_=nav_em_sh_lighting_0_2_7_3
+
+Element name: Smart Locks and Entry
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21216824011&ref_=nav_em_sh_locks-entry_0_2_7_4
+
+Element name: Security Cameras and Systems
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217033011&ref_=nav_em_sh_security-cameras-systems_0_2_7_5
+
+Element name: Plugs and Outlets
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217037011&ref_=nav_em_sh_plugs-outlets_0_2_7_6
+
+Element name: New Smart Devices
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=19185106011&ref_=nav_em_sh_new-devices_0_2_7_7
+
+Element name: Heating and Cooling
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217041011&ref_=nav_em_sh_heating-cooling_0_2_7_8
+
+Element name: Detectors and Sensors
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217048011&ref_=nav_em_sh_detectors-sensors_0_2_7_9
+
+Element name: Home Entertainment
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21216826011&ref_=nav_em_sh_home-entertainment_0_2_7_10
+
+Element name: Pet
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21221447011&ref_=nav_em_sh_pet_0_2_7_11
+
+Element name: Voice Assistants and Hubs
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21216812011&ref_=nav_em_sh_voice-assistants-hubs_0_2_7_12
+
+Element name: Kitchen
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217039011&ref_=nav_em_sh_kitchen_0_2_7_13
+
+Element name: Vacuums and Mops
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217038011&ref_=nav_em_sh_vacuums-mops_0_2_7_14
+
+Element name: Lawn and Garden
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217056011&ref_=nav_em_sh_lawn-garden_0_2_7_15
+
+Element name: WIFI and Networking
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217028011&ref_=nav_em_sh_wifi-networking_0_2_7_16
+
+Element name: Other Solutions
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/gp/browse.html?node=21217060011&ref_=nav_em_sh_other_0_2_7_17
+

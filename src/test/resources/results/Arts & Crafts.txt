@@ -1,0 +1,76 @@
+Element name: #FoundItOnAmazon
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/finds?ref_=nav_em_allpf_foundit_d_0_1_1_30
+
+Element name: Your Account
+Status: HTTP/1.1 403 Forbidden
+Links: https://www.amazon.com/gp/css/homepage.html?ref_=nav_em_ya_0_1_1_35
+
+Element name: English
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/customer-preferences/edit/?preferencesReturnUrl=%2F&ref_=nav_em_mozart_0_1_1_36
+
+Element name: United States
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/customer-preferences/country/?ref_=nav_em_locale_0_1_1_37
+
+Element name: Customer Service
+Status: HTTP/1.1 403 Forbidden
+Links: https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_em_cs_hm_0_1_1_38
+
+Element name: MAIN MENU
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/
+
+Element name: Painting, Drawing & Art Supplies
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2747968011&ref_=nav_em__nav_desktop_sa_intl_painting_drawing_supplies_0_2_8_2
+
+Element name: Beading & Jewelry Making
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12896081&ref_=nav_em__nav_desktop_sa_intl__beading_jewelry_making_0_2_8_3
+
+Element name: Crafting
+Status: HTTP/1.1 503 Service Unavailable
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A378733011&ref_=nav_em__nav_desktop_sa_intl_crafting_0_2_8_4
+
+Element name: Fabric
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12899121&ref_=nav_em__nav_desktop_sa_intl_fabric_0_2_8_5
+
+Element name: Fabric Decorating
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12896841&ref_=nav_em__nav_desktop_sa_intl_fabric_decorating_0_2_8_6
+
+Element name: Knitting & Crochet
+Status: HTTP/1.1 503 Service Unavailable
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12897221&ref_=nav_em__nav_desktop_sa_intl_knitting_crochet_0_2_8_7
+
+Element name: Needlework
+Status: HTTP/1.1 503 Service Unavailable
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2237329011&ref_=nav_em__nav_desktop_sa_intl_needlework_0_2_8_8
+
+Element name: Organization, Storage & Transport
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2237594011&ref_=nav_em__nav_desktop_sa_intl_organization_storage_transport_0_2_8_9
+
+Element name: Printmaking
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12898451&ref_=nav_em__nav_desktop_sa_intl_printmaking_0_2_8_10
+
+Element name: Scrapbooking & Stamping
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12898821&ref_=nav_em__nav_desktop_sa_intl_scrapbookig_stamping_0_2_8_11
+
+Element name: Sewing
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12899091&ref_=nav_em__nav_desktop_sa_intl_sewing_0_2_8_12
+
+Element name: Party Decorations & Supplies
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A723469011&ref_=nav_em__nav_desktop_sa_intl_party_decorations_supplies_0_2_8_13
+
+Element name: Gift Wrapping Supplies
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A723452011&ref_=nav_em__nav_desktop_sa_intl_gift_wrapping_supplies_0_2_8_14
+

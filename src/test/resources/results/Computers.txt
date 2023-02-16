@@ -1,0 +1,84 @@
+Element name: #FoundItOnAmazon
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/finds?ref_=nav_em_allpf_foundit_d_0_1_1_30
+
+Element name: Your Account
+Status: HTTP/1.1 403 Forbidden
+Links: https://www.amazon.com/gp/css/homepage.html?ref_=nav_em_ya_0_1_1_35
+
+Element name: English
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/customer-preferences/edit/?preferencesReturnUrl=%2F&ref_=nav_em_mozart_0_1_1_36
+
+Element name: United States
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/customer-preferences/country/?ref_=nav_em_locale_0_1_1_37
+
+Element name: Customer Service
+Status: HTTP/1.1 429 Too Many Requests
+Links: https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_em_cs_hm_0_1_1_38
+
+Element name: MAIN MENU
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/
+
+Element name: Computer Accessories & Peripherals
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172456&ref_=nav_em__nav_desktop_sa_intl_computer_accessories_and_peripherals_0_2_6_2
+
+Element name: Computer Components
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A193870011&ref_=nav_em__nav_desktop_sa_intl_computer_components_0_2_6_3
+
+Element name: Computers & Tablets
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A13896617011&ref_=nav_em__nav_desktop_sa_intl_computers_tablets_0_2_6_4
+
+Element name: Data Storage
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A1292110011&ref_=nav_em__nav_desktop_sa_intl_data_storage_0_2_6_5
+
+Element name: External Components
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A3012292011&ref_=nav_em__nav_desktop_sa_intl_external_components_0_2_6_6
+
+Element name: Laptop Accessories
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A3011391011&ref_=nav_em__nav_desktop_sa_intl_laptop_accessories_0_2_6_7
+
+Element name: Monitors
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A1292115011&ref_=nav_em__nav_desktop_sa_intl_monitors_0_2_6_8
+
+Element name: Networking Products
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172504&ref_=nav_em__nav_desktop_sa_intl_networking_products_0_2_6_9
+
+Element name: Power Strips & Surge Protectors
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A17854127011&ref_=nav_em__nav_desktop_sa_intl_power_strips_and_surge_protectors_0_2_6_10
+
+Element name: Printers
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172635&ref_=nav_em__nav_desktop_sa_intl_printers_0_2_6_11
+
+Element name: Scanners
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172584&ref_=nav_em__nav_desktop_sa_intl_scanners_0_2_6_12
+
+Element name: Servers
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A11036071&ref_=nav_em__nav_desktop_sa_intl_servers_0_2_6_13
+
+Element name: Tablet Accessories
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A2348628011&ref_=nav_em__nav_desktop_sa_intl_tablet_accessories_0_2_6_14
+
+Element name: Tablet Replacement Parts
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A15524379011&ref_=nav_em__nav_desktop_sa_intl_tablet_replacement_parts_0_2_6_15
+
+Element name: Warranties & Services
+Status: HTTP/1.1 200 OK
+Links: https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A16285851&ref_=nav_em__nav_desktop_sa_intl_warranties_and_services_0_2_6_16
+
